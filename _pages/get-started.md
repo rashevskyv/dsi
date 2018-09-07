@@ -1,0 +1,91 @@
+---
+title: "Установка Unlaunch"
+permalink: /get-started.html
+author_profile: true
+---
+
+{% include toc title="Содержание" %}
+
+
+Прежде чем начать, рекомендуется проверить свою SD-карту на ошибки с помощью 
+[H2testw (Windows)](https://3ds.customfw.xyz/h2testw-windows){:target="_blank"}, [F3 (Linux)](https://3ds.customfw.xyz/f3-linux){:target="_blank"}, или [F3X (Mac)](https://3ds.customfw.xyz/f3x-mac){:target="_blank"}<br>
+
+Если вы пользователь **Windows**, то перед началом работ убедитесь, что в вашей системе включено отображение расширений файлов. Если вы не знаете как это сделать, следуйте этой инструкции: [Расширения файлов (Windows)](https://3ds.customfw.xyz/file-extensions-windows){:target="_blank"}.
+
+
+Если у Вас консоль **USA** региона, то убедитесь в том, что в настройках приставки выставлен английский язык.
+
+
+Unlaunch находится в состоянии Beta. Пожалуйста соблюдайте осторожность.
+{: .notice--danger}
+
+
+
+Unlaunch - это эксплоит загрузочного кода DSi, позволяющий установить кастомную прошивку HiyaCFW на Вашу приставку.
+
+## Что понадобится:
+- Свежая версия [Unlaunch](https://problemkaputt.de/unlaunch.zip){:target="_blank"}
+- Свежая версия [HBMenu](https://github.com/devkitPro/nds-hb-menu/releases/){:target="_blank"}
+- Свежая версия [ugopwn](https://www.dropbox.com/s/ba10vumnjecyn81/ugopwn.zip?dl=0){:target="_blank"}
+- Свежая версия [fwTool](https://www.dropbox.com/s/rnhqyasohobr0j5/fwTool.nds?dl=0){:target="_blank"} 
+
+
+## Подготовка SD карты:
+1. Вставьте Вашу SD-карту в компьютер
+2. Скопируйте содержимое архива ugopwn.zip в корень вашей SD-карты
+3. Скопируйте fwTool.nds в корень вашей SD-карты
+4. Скопируйте BOOT.NDS из папки hbmenu архива HBMenu.tar.bz2 в корень вашей SD-карты
+5. Извлеките Вашу SD карту и вставьте её в DSi.
+
+
+## Создание бэкапа NAND:
+1. Откройте приложение Flipnote Studio
+- Убедитесь что в настройках программы отключен пункт "booting to Calendar mode"
+- Если у Вас уже есть другой установленный DSi эксплойт, запускаем его и переходим к пункту 14
+- Обратите внимание, что Sudokuhax не может надлежащим образом сделать резервную копию!
+2. Выбирите в следующем порядке: **View Flipnote > SD Card > Select Folder > User > ugopwn**
+3. Нажмите на листок, наполовину закрашенный красным
+4. Нажмите "Edit"
+5. Нажмите на иконку лягушки в левом нижнем углу
+6. В верхнем углу слева нажмите на киноплёнку (рядом с кнопкой Quit)
+7. Нажмите Copy > Back > Quit
+8. Выбирете другой листок (серый) и нажмите “Edit”
+9. Нажмите на иконку лягушки в левом нижнем углу
+10. В верхнем углу слева нажмите на киноплёнку (рядом с кнопкой Quit)
+11. Для приставок **USA/EUR/AUS** регионов: Жмём кнопку ![]({{ "/images/buttons/A.png" | absolute_url }}) 2 раза
+- Должен появиться новый кадр (белая рамка)
+12. В зависимости от региона вашей консоли, сделайте следующее:
+- **USA:** Нажмите на кнопку "paste" 122 раза
+- **EUR/AUS:** Нажмите на кнопку "paste" 2 раза
+- **JPN:** нажмите на кнопку "paste"
+13. Для приставок **USA/EUR/AUS** регионов: нажмите Erase, затем Paste.
+- Должно запуститься HBMenu
+14. Выделите fwtool.nds и нажите ![]({{ "/images/buttons/A.png" | absolute_url }})  
+- Должен запуститься fwtool
+15. Выделите Backup DSi NAND и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
+- процесс займет несколько минут
+- Когда появится надпись "saved nand.bin.sha1", создание бекапа закончено.
+16. Выделите  Exit, нажмите ![]({{ "/images/buttons/A.png" | absolute_url }}) и выключите Вашу DSi.
+- **Бекап нужно сохранить на компьютере, он будет необходим для дальнейшей установки HiyaCFW.**
+
+## Установка:
+1. Вставьте Вашу SD-карту в компьютер
+2. Скопируйте UNLAUNCH.DSI из архива с ним в корень вашей SD-карты
+3. Переименуйте UNLAUNCH.DSI в unlaunch.nds
+4. Извлеките SD-карту из компьютера и вставьте ее в консоль
+5. Включите консоль и повторите все шаги с 1 по 13 из раздела "Создание бэкапа NAND"
+6. Выделите Unlaunch.nds и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
+- Должен запуститься установщик Unlaunch
+7. Выделите INSTALL NOW и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
+- Если Unlauncher завис с ошибкой **ERROR: MISMATCH IN FAT COPIES**, пожалуйста обратитесь к [FAQ](faq){:target="_blank"}.
+8. После завершения установки, выделите POWER DOWN и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
+- Консоль выключится
+9. Зажав кнопку ![]({{ "/images/buttons/A.png" | absolute_url }}), включите вашу консоль для проверки работы Unlauncher
+- На секунду появится заставка Unlauncher и загрузится меню DSi с отсутствующим звуком.
+
+С установленным Unlauncher, ваша система приобрела простенькую защиту от брика при повреждении TMD файла загрузчика. Unlauncher предотвратит такие случаи, и HiyaCFW, используя SD карту в качестве NAND консоли, укрепит эту защиту.
+
+___
+
+[**Установка HiyaCFW**](installing-hiyaCFW)
+{: .notice--success}

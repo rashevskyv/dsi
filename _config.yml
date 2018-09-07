@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 locale                   : "ru-RU"
 title                    : "Взлом DSi"
 title_separator          : "-"
-name                     : "xHR"
+name                     : "mbhz"
 description              : "Полное руководство по прошивке Nintendo DSi"
 url                      : "https://dsi.customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Игорь Проняев"
+  name             : "mbhz"
   avatar           : "/images/bio-photo.png"
-  location         : "Дружковка, Украина"
-  email            : "rashevsky.v@gmail.com"
+  location         : "НСО, Россия"
+  email            : "mbhz@mail.ru"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rashevskyv"
+  github           : "mbhz"
   google_plus      :
   keybase          :
   instagram        :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "xHR_"
+  twitter          : "_mbhz_"
   vine             :
   weibo            :
   xing             :
