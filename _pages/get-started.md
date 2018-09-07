@@ -26,8 +26,8 @@ Unlaunch - это эксплоит загрузочного кода DSi, поз
 ## Что понадобится
 - Свежая версия [Unlaunch](https://problemkaputt.de/unlaunch.zip){:target="_blank"}
 - Свежая версия [HBMenu](https://github.com/devkitPro/nds-hb-menu/releases/){:target="_blank"}
-- Свежая версия [ugopwn](https://www.dropbox.com/s/ba10vumnjecyn81/ugopwn.zip?dl=0){:target="_blank"}
-- Свежая версия [fwTool](https://www.dropbox.com/s/rnhqyasohobr0j5/fwTool.nds?dl=0){:target="_blank"} 
+- Свежая версия [ugopwn](files/ugopwn.zip)
+- Свежая версия [fwTool](files/fwTool.nds) 
 
 
 ## Подготовка SD карты

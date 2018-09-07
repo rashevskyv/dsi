@@ -21,7 +21,7 @@ author_profile: true
 
 ## Что понадобится
 - Свежая версия [DSiMenu++](https://github.com/Robz8/DSiMenuPlusPlus/releases){:target="_blank"}
-- [launcharggen](https://www.dropbox.com/s/7smiofjddnp1rh0/launcharggen.zip?dl=0){:target="_blank"}
+- [launcharggen](files/launcharggen.zip)
 	- Пользователи Windows запускают .exe файл
 	- Пользователи других систем запускают .py (необходимо наличие [Python 3](https://www.python.org/downloads/){:target="_blank"} и [WINE](https://www.winehq.org/){:target="_blank"} )
 
