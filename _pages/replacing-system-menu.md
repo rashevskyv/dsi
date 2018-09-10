@@ -14,7 +14,7 @@ author_profile: true
 Замена системного меню на DSiMenu++ даст ряд преимуществ:
 - DSiMenu++ позволит иметь большее количество DSiWare приложений
 - DSiMenu++ , в большинстве случаев, позволяет использовать sd карту больше 2гб
-	- Вы можете просто перенести содержимое вашей старой SDNAND карты на бОльшую и все будет работать
+	- Вы можете просто перенести содержимое Вашей старой SDNAND карты на бОльшую и все будет работать
 - DSiMenu ++ предоставляет унифицированный интерфейс для запуска NES, GB/GBC, DS и DSiWare тайтлов
 
 Таким образом, DSiMenu++ выступает в качестве эффективной альтернативы системному меню с открытым исходным кодом.
@@ -23,7 +23,7 @@ author_profile: true
 - Свежая версия [DSiMenu++](https://github.com/Robz8/DSiMenuPlusPlus/releases){:target="_blank"}
 - [launcharggen](files/launcharggen.zip)
 	- Пользователи Windows запускают .exe файл
-	- Пользователи других систем запускают .py (необходимо наличие [Python 3](https://www.python.org/downloads/){:target="_blank"} и [WINE](https://www.winehq.org/){:target="_blank"} )
+	- Пользователи других систем запускают .py (необходимо наличие [Python 3](https://www.python.org/downloads/){:target="_blank"} и [WINE](https://www.winehq.org/){:target="_blank"})
 
 ## Подготовка
 Если у вас уже установлено DSiMenu++ , переходите к пункту 4
@@ -32,8 +32,8 @@ author_profile: true
 1. Распакуйте архив DSiMenuPlusPlus.7z
 2. Скопируйте содержимое папки CFW - SDNAND root в корень SD-карты
 3. Скопируйте папки "_nds", "roms" и файл "BOOT.NDS" в корень SD-карты
-4. Скопируйте содержимое папки DSiWare (your region) в roms/dsiware на вашей SD-карте
-5. Скопируйте файл "autoboot.bin" из папки **Autoboot for HiyaCFW** в папку **hiya** на вашей SD-карте
+4. Скопируйте содержимое папки DSiWare (your region) в roms/dsiware на Вашей SD-карте
+5. Скопируйте файл "autoboot.bin" из папки **Autoboot for HiyaCFW** в папку **hiya** на Вашей SD-карте
 6. Откройте папку **shared1** на SD-карте
 7. Задайте файлам "TWLCFG0.dat" и "TWLCFG1.dat" атрибут "Только чтение"
 	- На Windows - правый клик мышки > свойства
@@ -49,12 +49,12 @@ author_profile: true
 12. Извлеките SD-карту из компьютера и вставьте её в DSi
 
 ## Инструкции
-1. Включите консоль, зажав ![]({{ "/images/buttons/select.png" | absolute_url }})
+1. Включите консоль, зажав ![]({{ "/images/buttons/SELECT.png" | absolute_url }})
 2. Если пункт Autoboot title не отмечен, отметьте его нажатием ![]({{ "/buttons/A.png" | absolute_url }})
 3. Нажмите start для сохранения настроек и продолжения загрузки
 	- Появится DSiMenu++ 
 
-DSiMenu++  теперь будет вашем системным меню. перейдите в roms > dsiware для доступа к dsiware приложениям.
+DSiMenu++  теперь будет Вашем системным меню. Перейдите в roms > dsiware для доступа к DSiWare приложениям.
 
 ____
 

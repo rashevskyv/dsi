@@ -1,0 +1,15 @@
+cheat table for belzebub mod 1.045
+check below for instructions and how to use:
+1)download and run cheat engine 
+2)open your belzebub game click single player but do not create a game just yet
+3)load process belzebub.exe in cheat engine and open the cheat table and tick the 3 scripts marked with red X
+4)select any character and start a game 
+5)open up character stat screen in game
+6)you can now mod any of the listed stats
+
+
+bundle exec jekyll serve
+
+git add .
+git commit -m "commit"
+git push -f
