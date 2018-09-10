@@ -22,29 +22,29 @@ author_profile: true
 ## Что понадобится
 - Свежая версия [DSiMenu++](https://github.com/Robz8/DSiMenuPlusPlus/releases){:target="_blank"}
 - [launcharggen](files/launcharggen.zip)
-	- Пользователи Windows запускают .exe файл
-	- Пользователи других систем запускают .py (необходимо наличие [Python 3](https://www.python.org/downloads/){:target="_blank"} и [WINE](https://www.winehq.org/){:target="_blank"})
+	- Пользователи Windows запускают `.exe` файл
+	- Пользователи других систем запускают `.py` (необходимо наличие [Python 3](https://www.python.org/downloads/){:target="_blank"} и [WINE](https://www.winehq.org/){:target="_blank"})
 
 ## Подготовка
 Если у вас уже установлено DSiMenu++ , переходите к пункту 4
 {: .notice--info}
 
-1. Распакуйте архив DSiMenuPlusPlus.7z
-2. Скопируйте содержимое папки CFW - SDNAND root в корень SD-карты
-3. Скопируйте папки "_nds", "roms" и файл "BOOT.NDS" в корень SD-карты
-4. Скопируйте содержимое папки DSiWare (your region) в roms/dsiware на Вашей SD-карте
-5. Скопируйте файл "autoboot.bin" из папки **Autoboot for HiyaCFW** в папку **hiya** на Вашей SD-карте
-6. Откройте папку **shared1** на SD-карте
-7. Задайте файлам "TWLCFG0.dat" и "TWLCFG1.dat" атрибут "Только чтение"
+1. Распакуйте архив `DSiMenuPlusPlus.7z`
+2. Скопируйте содержимое папки `CFW - SDNAND root` в корень SD-карты
+3. Скопируйте папки `_nds`, `roms` и файл `BOOT.NDS` в корень SD-карты
+4. Скопируйте содержимое папки `DSiWare (your region)` в `roms/dsiware` на Вашей SD-карте
+5. Скопируйте файл `autoboot.bin` из папки `Autoboot for HiyaCFW` в папку `hiya` на Вашей SD-карте
+6. Откройте папку `shared1` на SD-карте
+7. Задайте файлам `TWLCFG0.dat` и `TWLCFG1.dat` атрибут "Только чтение"
 	- На Windows - правый клик мышки > свойства
 	- Это позволит обойти баг, способный сломать SDNAND
 	- Если вы захотите изменить системные настройки, нужно будет временно снять этот аттрибут
-8. Перейдите в папку title/00030004 на SD-карте
-9. Скопитуйте содержимое архива launcharggen.zip в папку title/00030004 на SD-карте
+8. Перейдите в папку `title/00030004` на SD-карте
+9. Скопитуйте содержимое архива `launcharggen.zip` в папку `title/00030004` на SD-карте
 10. запустите launcharggen
-	- создастся папка "dsiware"
+	- создастся папка `dsiware`
 	- в ней содержаться файлы, указывающие DSIMenu++ расположение dsiware приложений.
-11. Переместите эту папку "dsiware" в папку "roms" на SD-карте
+11. Переместите эту папку `dsiware` в папку `roms` на SD-карте
 	- при запросе, объедините папки
 12. Извлеките SD-карту из компьютера и вставьте её в DSi
 
