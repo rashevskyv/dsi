@@ -62,6 +62,7 @@ Unlaunch - это эксплоит загрузочного кода DSi, поз
 - Должно запуститься HBMenu
 14. Выделите fwtool.nds и нажите ![]({{ "/images/buttons/A.png" | absolute_url }})  
 - Должен запуститься fwtool
+	- Наглядная [видео-инструкция](files/jap.mp4){:target="_blank"} для владельцев японских консолей
 15. Выделите Backup DSi NAND и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
 - процесс займет несколько минут
 - Когда появится надпись "saved nand.bin.sha1.", создание бекапа закончено.
