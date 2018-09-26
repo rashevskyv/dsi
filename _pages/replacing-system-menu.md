@@ -9,27 +9,27 @@ author_profile: true
 У вас уже должны быть установлены [**Unlaunch**](get-started) и [**HiyaCFW**](installing-hiyaCFW)
 {: .notice--warning}
 
-Произойдет замена системного меню на приложение DSiMenu++, которое будет запускаться автоматически при включении консоли.
+Произойдет замена системного меню на приложение TWiLightMenu++, которое будет запускаться автоматически при включении консоли.
 
-Замена системного меню на DSiMenu++ даст ряд преимуществ:
-- DSiMenu++ позволит иметь большее количество DSiWare приложений
-- DSiMenu++ , в большинстве случаев, позволяет использовать sd карту больше 2гб
+Замена системного меню на TWiLightMenu++ даст ряд преимуществ:
+- TWiLightMenu++ позволит иметь большее количество DSiWare приложений
+- TWiLightMenu++ , в большинстве случаев, позволяет использовать sd карту больше 2гб
 	- Вы можете просто перенести содержимое Вашей старой SDNAND карты на бОльшую и все будет работать
-- DSiMenu ++ предоставляет унифицированный интерфейс для запуска NES, GB/GBC, DS и DSiWare тайтлов
+- TWiLightMenu++ предоставляет унифицированный интерфейс для запуска NES, GB/GBC, DS и DSiWare тайтлов
 
-Таким образом, DSiMenu++ выступает в качестве эффективной альтернативы системному меню с открытым исходным кодом.
+Таким образом, TWiLightMenu++ выступает в качестве эффективной альтернативы системному меню с открытым исходным кодом.
 
 ## Что понадобится
-- Свежая версия [DSiMenu++](https://github.com/Robz8/DSiMenuPlusPlus/releases){:target="_blank"}
+- Свежая версия [TWiLightMenu++](https://github.com/Robz8/TWiLightMenu/releases){:target="_blank"}
 - [launcharggen](files/launcharggen.zip)
 	- Пользователи Windows запускают `.exe` файл
 	- Пользователи других систем запускают `.py` (необходимо наличие [Python 3](https://www.python.org/downloads/){:target="_blank"} и [WINE](https://www.winehq.org/){:target="_blank"})
 
 ## Подготовка
-Если у вас уже установлено DSiMenu++ , переходите к пункту 4
+Если у вас уже установлено TWiLightMenu++ , переходите к пункту 4
 {: .notice--info}
 
-1. Распакуйте архив `DSiMenuPlusPlus.7z`
+1. Распакуйте архив `TWiLightMenu.7z`
 2. Скопируйте содержимое папки `CFW - SDNAND root` в корень SD-карты
 3. Скопируйте папки `_nds`, `roms` и файл `BOOT.NDS` в корень SD-карты
 4. Скопируйте содержимое папки `DSiWare (your region)` в `roms/dsiware` на Вашей SD-карте
@@ -52,9 +52,9 @@ author_profile: true
 1. Включите консоль, зажав ![]({{ "/images/buttons/SELECT.png" | absolute_url }})
 2. Если пункт Autoboot title не отмечен, отметьте его нажатием ![]({{ "/buttons/A.png" | absolute_url }})
 3. Нажмите start для сохранения настроек и продолжения загрузки
-	- Появится DSiMenu++ 
+	- Появится TWiLightMenu++ 
 
-DSiMenu++  теперь будет Вашем системным меню. Перейдите в roms > dsiware для доступа к DSiWare приложениям.
+TWiLightMenu++ теперь будет Вашем системным меню. Перейдите в roms > dsiware для доступа к DSiWare приложениям.
 
 ____
 
