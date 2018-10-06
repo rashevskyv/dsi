@@ -1,4 +1,4 @@
-# Switch hack guide
-Полное руководство по использованию Switch для того самого
+# Dsi hack guide
+Полное руководство по использованию Dsi для того самого
 
-http://switch.customfw.xyz# dsi
+http://dsi.customfw.xyz
