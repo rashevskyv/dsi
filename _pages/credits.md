@@ -37,6 +37,7 @@ author_profile: true
 - [Андрей Брановицкий](https://vk.com/andray1993){:target="_blank"}
 {: .notice--success}
 
+
 **Отдельная благодарность:**
 
 - [Владу Рашевскому](https://vk.com/rashevskyv){:target="_blank"}
