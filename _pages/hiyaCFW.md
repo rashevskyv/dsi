@@ -26,7 +26,7 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 	- Пользователям windows необходимо иметь установленным [WinFsp](http://www.secfs.net/winfsp/download/){:target="_blank"}
 - Свежая версия [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html){:target="_blank"}
 	- Может быть заменено утилитой **mount** на системах, отличных от Windows
-- Свежая версия [HiyaCFW](https://github.com/Robz8/hiyaCFW/releases){:target="_blank"}
+- Свежая версия [HiyaCFW](https://github.com/RocketRobz/hiyaCFW/releases){:target="_blank"}
 - [NUSDownloader](files/NUSDownloader.zip)
 - Бэкап NAND Вашей приставки, сделанный ранее
 - [HiyaCFW Helper](files/hiyacfw_helper.zip)

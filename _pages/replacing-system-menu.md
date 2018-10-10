@@ -20,7 +20,7 @@ author_profile: true
 Таким образом, TWiLightMenu++ выступает в качестве эффективной альтернативы системному меню с открытым исходным кодом.
 
 ## Что понадобится
-- Свежая версия [TWiLightMenu++](https://github.com/Robz8/TWiLightMenu/releases){:target="_blank"}
+- Свежая версия [TWiLightMenu++](https://github.com/RocketRobz/TWiLightMenu/releases){:target="_blank"}
 - [launcharggen](files/launcharggen.zip)
 	- Пользователи Windows запускают `.exe` файл
 	- Пользователи других систем запускают `.py` (необходимо наличие [Python 3](https://www.python.org/downloads/){:target="_blank"} и [WINE](https://www.winehq.org/){:target="_blank"})

@@ -11,7 +11,7 @@ author_profile: true
 
 
 ## Что понадобится
-- Свежая версия [TWiLightMenu++](https://github.com/Robz8/TWiLightMenu/releases){:target="_blank"}
+- Свежая версия [TWiLightMenu++](https://github.com/RocketRobz/TWiLightMenu/releases){:target="_blank"}
 
 ## Инструкции
 1. Вставьте Вашу SD-карту в компьютер
