@@ -27,13 +27,12 @@ author_profile: true
     - Nintendo DS ромы поместите в папку `/roms/nds`
     - NES ромы поместите в папку `/roms/nes`
     - Для Game Boy Advance ромов создайте в папке `roms` папку `GBA` и поместите ромы в нее
-		- Для запуска GBA ромов нужен биос от GBA, помещенный в корень SD-карты под именем `"bios.bin"` (ищите в интернете сами). На данный момент отсутствует поддержка сохранений.
-2. Запустите DSiMenu++ из домашнего меню
+		- Для запуска GBA ромов нужен биос от GBA, помещенный в корень SD-карты под именем `"bios.bin"` (ищите в интернете сами).
+2. Запустите TWiLightMenu++ из домашнего меню
 3. Появится список NDS игр
-	- Нажмите ![]({{ "/images/buttons/Y.png" | absolute_url }}) чтобы запустить хоумбрю приложение без использования nds-bootstrap
-    - Нажмите ![]({{ "/images/buttons/A.png" | absolute_url }}) чтобы запустить коммерческие/хоумбрю ромы, использующие nds-bootstrap (DSi-extended хоумбрю не запустятся через bootstrasp)
-    - Нажмите ![]({{ "/images/buttons/START.png" | absolute_url }}) и выбирете “Start GBARunner2” для запуска GBA игр      
-    - Нажмите ![]({{ "/images/buttons/X.png" | absolute_url }}) в начальном меню чтобы вернуться к меню DSi
+    - Нажмите ![]({{ "/images/buttons/A.png" | absolute_url }}) чтобы запустить игры
+    - Нажмите на иконку ![]({{ "/images/buttons/gba_icon.png" | absolute_url }}) чтобы запустить GBA игры через GBARunner2     
+    - Нажмите на иконку ![]({{ "/images/buttons/home_icon.png" | absolute_url }}) чтобы вернуться к меню DSi
 4. (Опционально) TWiLightMenu++ может полностью заменить системное меню. Это поможет избежать некоторых багов, связанных с размером SD карты и лимитом на количество DSiWare приложений. 
 	- [Замена системного меню на TWiLightMenu++](replacing-system-menu)
 
