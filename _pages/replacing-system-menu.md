@@ -50,11 +50,11 @@ author_profile: true
 
 ## Инструкции
 1. Включите консоль, зажав ![]({{ "/images/buttons/SELECT.png" | absolute_url }})
-2. Если пункт Autoboot title не отмечен, отметьте его нажатием ![]({{ "/buttons/A.png" | absolute_url }})
+2. Если пункт `Autoboot title` не отмечен, отметьте его нажатием ![]({{ "images/buttons/A.png" | absolute_url }})
 3. Нажмите start для сохранения настроек и продолжения загрузки
 	- Появится TWiLightMenu++ 
 
-TWiLightMenu++ теперь будет Вашем системным меню. Перейдите в roms > dsiware для доступа к DSiWare приложениям.
+TWiLightMenu++ теперь будет Вашим системным меню. Перейдите в roms > dsiware для доступа к DSiWare приложениям.
 
 ____
 
