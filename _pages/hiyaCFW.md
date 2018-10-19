@@ -53,5 +53,5 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 
 ___
 
-[**TWiLightMenu++**](finalizing-setup)
+[**Завершение установки**](finalizing-setup)
 {: .notice--success}
