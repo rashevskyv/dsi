@@ -61,12 +61,12 @@ Unlaunch - это эксплоит загрузочного кода DSi, поз
 - **JPN:** нажмите на кнопку "Paste"
 13. Для приставок **USA/EUR/AUS** регионов: нажмите Erase, затем Paste.
 - Должно запуститься HBMenu
-14. Выделите fwtool.nds и нажите ![]({{ "/images/buttons/A.png" | absolute_url }})  
+14. Выделите `fwtool.nds` и нажите ![]({{ "/images/buttons/A.png" | absolute_url }})  
 - Должен запуститься fwtool
-15. Выделите Backup DSi NAND и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
+15. Выделите `Backup DSi NAND` и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
 - процесс займет несколько минут
-- Когда появится надпись "saved nand.bin.sha1.", создание бекапа закончено.
-16. Выделите  Exit, нажмите ![]({{ "/images/buttons/A.png" | absolute_url }}) и выключите Вашу DSi.
+- Когда появится надпись `saved nand.bin.sha1.`, создание бекапа закончено.
+16. Выделите  `Exit`, нажмите ![]({{ "/images/buttons/A.png" | absolute_url }}) и выключите Вашу DSi.
 - **Бекап нужно сохранить на компьютере, он будет необходим для дальнейшей установки HiyaCFW.**
 
 ## Установка
@@ -75,11 +75,11 @@ Unlaunch - это эксплоит загрузочного кода DSi, поз
 3. Переименуйте `UNLAUNCH.DSI` в `unlaunch.nds`
 4. Извлеките SD-карту из компьютера и вставьте ее в консоль
 5. Включите консоль и повторите все шаги с 1 по 13 из раздела "Создание бэкапа NAND"
-6. Выделите Unlaunch.nds и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
+6. Выделите `Unlaunch.nds` и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
 - Должен запуститься установщик Unlaunch
-7. Выделите INSTALL NOW и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
-- Если Unlauncher завис с ошибкой **ERROR: MISMATCH IN FAT COPIES**, пожалуйста обратитесь к [FAQ](faq){:target="_blank"}.
-8. После завершения установки, выделите POWER DOWN и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
+7. Выделите `INSTALL NOW` и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
+- Если Unlaunch завис с ошибкой **ERROR: MISMATCH IN FAT COPIES**, пожалуйста обратитесь к [FAQ](faq){:target="_blank"}.
+8. После завершения установки, выделите `POWER DOWN` и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})  
 - Консоль выключится
 9. Зажав кнопку ![]({{ "/images/buttons/A.png" | absolute_url }}), включите Вашу консоль для проверки работы Unlauncher
 - На секунду появится заставка Unlaunch и загрузится меню DSi с отсутствующим звуком.

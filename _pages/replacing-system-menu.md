@@ -23,7 +23,7 @@ author_profile: true
 - Свежая версия [TWiLightMenu++](https://github.com/RocketRobz/TWiLightMenu/releases){:target="_blank"}
 - [launcharggen](files/launcharggen.zip)
 	- Пользователи Windows запускают `.exe` файл
-	- Пользователи других систем запускают `.py` (необходимо наличие [Python 3](https://www.python.org/downloads/){:target="_blank"} и [WINE](https://www.winehq.org/){:target="_blank"})
+	- Пользователи других систем запускают `.py` (необходимо наличие [Python 2 или 3](https://www.python.org/downloads/){:target="_blank"})
 
 ## Подготовка
 Если у вас уже установлено TWiLightMenu++ , переходите к пункту 4
@@ -50,7 +50,7 @@ author_profile: true
 
 ## Инструкции
 1. Включите консоль, зажав ![]({{ "/images/buttons/SELECT.png" | absolute_url }})
-2. Если пункт `Autoboot title` не отмечен, отметьте его нажатием ![]({{ "images/buttons/A.png" | absolute_url }})
+2. Если пункт `Autoboot title` не отмечен, отметьте его нажатием ![]({{ "/images/buttons/A.png" | absolute_url }})
 3. Нажмите start для сохранения настроек и продолжения загрузки
 	- Появится TWiLightMenu++ 
 
