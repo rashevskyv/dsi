@@ -38,6 +38,28 @@ author_profile: true
 
 
 
+### **В: fuse-3ds выдает ошибку при запуске или монтировании NAND**
+
+**О:** Есть несколько причин, но чаще всего это происходит при отсутствии обновлений Windows, которые необходимы для работы программы.
+
+- Если fuse-3ds не показывает ничего кроме коммандной строки, просто подождите чуть подольше, программа может долго запускаться.
+
+- Если fuse-3ds при запуске выдает такую ошибку: 
+
+*The procedure entry point ucrtbase.terminate could not be located in the dynamic link library api-ms-win-crt-runtime-l1-1-0.dll.*
+
+У вас не установлено [данное обновление Windows](https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows){:target="_blank"}.
+
+- Если fuse-3ds при монтировании выдает ошибку: 
+
+*Cannot create WinFsp-FUSE file system: unspecified error.*
+
+У вас не установлено [данное обновление Windows](https://technet.microsoft.com/en-us/library/security/3033929.aspx){:target="_blank"}.
+
+
+Обоим этим обновлениям уже несколько лет. Если у вас они не установлены, крайне рекомендуется включить Обновления Windows на Вашем компьютере и держать Вашу систему в актуальном состоянии, для избежания подобных проблем в будущем.
+
+
 ## Пользовательский интерфейс TWiLightMenu++
 
 ### **В: Почему не работает перелистывание страниц шифтами в DSi/3DS теме TWiLightMenu++?**
