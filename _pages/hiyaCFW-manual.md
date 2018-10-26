@@ -20,7 +20,7 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 - Автоматическая загрузка в другие приложения, такие как TWiLightMenu++
 
 ## Что понадобится
-- SD-карта или microSD + переходник. Если объём карты памяти больше чем 2 гб, то нужно будет или устанавливать TWiLightMenu++ вместо системного меню DSi (об этом ниже), или же [размечать карту памяти](https://hetmanrecovery.com/ru/recovery_news/how-to-split-a-usb-flash-drive-or-an-sd-card-using-disk-management-in-windows-10.htm){:target="_blank"} таким образом, чтобы основной раздел на них был не более 2 гб
+- SD-карта или microSD + переходник. Если объём карты памяти больше чем 2 гб, то нужно будет или устанавливать TWiLightMenu++ вместо системного меню DSi (об этом ниже), или же [размечать карту памяти](https://hetmanrecovery.com/ru/recovery_news/how-to-split-a-usb-flash-drive-or-an-sd-card-using-disk-management-in-windows-10.htm){:target="_blank"} таким образом, чтобы основной раздел на ней был не более 2 гб
 - Свежая версия [fuse-3ds](https://github.com/ihaveamac/fuse-3ds/releases){:target="_blank"}
 	- Пользователям windows необходимо иметь установленным [WinFsp](http://www.secfs.net/winfsp/download/){:target="_blank"}
 - Свежая версия [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html){:target="_blank"}
