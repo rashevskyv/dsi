@@ -7,7 +7,7 @@ author_profile: true
 {% include toc title="Содержание" %}
 
 
-Если в разделе с установкой HiyaCFW был выделен пункт `Install latest TWiLight Menu++ on latest firmware`, то TWiLightMenu++ уже установлен и настроен на автозапуск. Переходите к разделу **Использование**.
+Если в разделе с установкой HiyaCFW был выделен пункт `Install latest TWiLight Menu++ on custom firmware`, то TWiLightMenu++ уже установлен и настроен на автозапуск. Переходите к разделу **Использование**.
 {: .notice--info}
 
 Сейчас мы установим TWiLightMenu++, приложение, позволяющее запускать программы и игры с карты памяти и имеющее несколько встроенных эмуляторов.

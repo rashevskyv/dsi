@@ -13,6 +13,7 @@ author_profile: true
 * [DSi Guide](/){:target="_blank"}
 * [Unlaunch](get-started){:target="_blank"}
 * [HiyaCFW](installing-hiyaCFW){:target="_blank"}
+* [Ручная установка HiyaCFW](installing-hiyaCFW-manual){:target="_blank"}
 * [Завершение](finalizing-setup){:target="_blank"}
 * [Замена системного меню](replacing-system-menu){:target="_blank"}
 
