@@ -42,7 +42,7 @@ author_profile: true
 
 - [Владу Рашевскому](https://vk.com/rashevskyv){:target="_blank"}
 - [Алексею Братковскому](https://vk.com/vulpesvulpeos){:target="_blank"}
-- [Альберту Кремму](https://vk.com/g.holo){:target="_blank"} за предоставление видео-инструкции для японских консолей.
+- [Альберту Кремму](https://vk.com/g.holo){:target="_blank"}
 {: .notice--success}
 
 
