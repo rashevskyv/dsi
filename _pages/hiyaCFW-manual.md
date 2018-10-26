@@ -20,8 +20,7 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 - Автоматическая загрузка в другие приложения, такие как TWiLightMenu++
 
 ## Что понадобится
-- [Опционально, но рекомендуется] SD-карта на 2 гб или меньше. Карты памяти более 2 гб должны быть [размечены](https://hetmanrecovery.com/ru/recovery_news/how-to-split-a-usb-flash-drive-or-an-sd-card-using-disk-management-in-windows-10.htm){:target="_blank"}  таким образом, чтобы основной раздел на них был не более 2 гб.
-	- Если Вы не можете или не хотите этого делать, переходите к разделу ["Замена системного меню на TWiLightMenu++"](replacing-system-menu){:target="_blank"} после завершения данной страницы.
+- SD-карта или microSD + переходник. Если объём карты памяти больше чем 2 гб, то нужно будет или устанавливать TWiLightMenu++ вместо системного меню DSi (об этом ниже), или же [размечать карту памяти](https://hetmanrecovery.com/ru/recovery_news/how-to-split-a-usb-flash-drive-or-an-sd-card-using-disk-management-in-windows-10.htm){:target="_blank"} таким образом, чтобы основной раздел на них был не более 2 гб
 - Свежая версия [fuse-3ds](https://github.com/ihaveamac/fuse-3ds/releases){:target="_blank"}
 	- Пользователям windows необходимо иметь установленным [WinFsp](http://www.secfs.net/winfsp/download/){:target="_blank"}
 - Свежая версия [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html){:target="_blank"}
@@ -45,7 +44,7 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 8. Нажмите Database > System (DSi) > System Menu (Launcher) > [ Ваш регион ] > v512 > Start NUS Download!
 9. После завершения закройте NUS Downloader
 10. Перейдите в следующие папки, находящиеся в папке с программой NUS Downloader: titles > 00030017484e41XX > 512.
-	- XX зависит от региона приставки: 45 - **USA**, 50 - **EUR**, 4A - **JAP**, 55 - **AUS**.
+	- XX зависит от региона приставки: 45 - **USA**, 50 - **EUR**, 4A - **JAP**, 55 - **AUS**
 11. Скопируйте `00000002.app` из папки `512` в папку `/ваша специальная папка/HiyaCFW/for PC`
 12. Скопируйте Ваш бэкап `NAND (nand.bin)` из папки `FWXXXXXXXXXXXX` Вашей SD-карты в папку `/Ваша специальная папка/HiyaCFW/for PC`
 	- XXXXXXXXXXXX это случайные символы, специфичные для каждой консоли
@@ -80,7 +79,7 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 2. Откройте папку `/Ваша специальная папка/HiyaCFW/for pc/Modified Files/`
 3. Скопируйте файл `bootloader.nds` в папку `Hiya` (Если папки нет, создайте самостоятельно) на SD-карте
 4. Скопируйте `00000002.app` в папку `title > 00030017 > 484e41XX > content` на SD-карте
-	- XX - зависит от региона: 45-**USA**, 50-**EUR**, 4A-**JAP**, 55-**AUS**
+	- XX зависит от региона приставки: 45 - **USA**, 50 - **EUR**, 4A - **JAP**, 55 - **AUS**
 5. Извлеките SD-карту и вставьте её в DSi.
 6. Включите консоль
 	- Появится экран настроек HiyaCFW

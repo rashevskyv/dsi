@@ -31,8 +31,7 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 - Автоматическая загрузка в другие приложения, такие как TWiLightMenu++
 
 ## Что понадобится
-- **[Опционально, но рекомендуется]** SD-карта на 2 гб или меньше. Карты памяти более 2 гб должны быть [размечены](https://hetmanrecovery.com/ru/recovery_news/how-to-split-a-usb-flash-drive-or-an-sd-card-using-disk-management-in-windows-10.htm){:target="_blank"}  таким образом, чтобы основной раздел на них был не более 2 гб.
-	- Если Вы не можете или не хотите этого делать, переходите к разделу ["Замена системного меню на TWiLightMenu++"](replacing-system-menu){:target="_blank"} после завершения данной страницы.
+- SD-карта или microSD + переходник. Если объём карты памяти больше чем 2 гб, то нужно будет или устанавливать TWiLightMenu++ вместо системного меню DSi (об этом ниже), или же [размечать карту памяти](https://hetmanrecovery.com/ru/recovery_news/how-to-split-a-usb-flash-drive-or-an-sd-card-using-disk-management-in-windows-10.htm){:target="_blank"} таким образом, чтобы основной раздел на них был не более 2 гб
 - Бэкап NAND Вашей приставки, сделанный ранее
 - [HiyaCFW Helper](https://github.com/mondul/HiyaCFW-Helper/releases){:target="_blank"}
 	- Пользователи Windows запускают .exe файл
