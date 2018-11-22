@@ -17,8 +17,8 @@ author_profile: true
 - [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20){:target="_blank"}
 - [Bruteforce.zip](files/Bruteforce.zip)
 - [HiyaCFW Helper](https://github.com/mondul/HiyaCFW-Helper/releases){:target="_blank"}
-	- Пользователи Windows запускают .exe файл
-	- Пользователи других систем запускают .py (необходимо наличие [Python 2](https://www.python.org/downloads/){:target="_blank"})
+	- Пользователи Windows запускают `.exe` файл
+	- Пользователи других систем запускают `.py` (необходимо наличие [Python 2](https://www.python.org/downloads/){:target="_blank"})
 	- Пользователям Windows дополнительно требуется свежая версия [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html){:target="_blank"}
  
 

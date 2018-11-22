@@ -34,8 +34,8 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 - SD-карта или microSD + переходник. Если объём карты памяти больше чем 2 гб, то нужно будет или устанавливать TWiLightMenu++ вместо системного меню DSi (об этом ниже), или же [размечать карту памяти](https://hetmanrecovery.com/ru/recovery_news/how-to-split-a-usb-flash-drive-or-an-sd-card-using-disk-management-in-windows-10.htm){:target="_blank"} таким образом, чтобы основной раздел на ней был не более 2 гб
 - Бэкап NAND Вашей приставки, сделанный ранее
 - [HiyaCFW Helper](https://github.com/mondul/HiyaCFW-Helper/releases){:target="_blank"}
-	- Пользователи Windows запускают .exe файл
-	- Пользователи других систем запускают .py (необходимо наличие [Python 2](https://www.python.org/downloads/){:target="_blank"})
+	- Пользователи Windows запускают `.exe` файл
+	- Пользователи других систем запускают `.py` (необходимо наличие [Python 2](https://www.python.org/downloads/){:target="_blank"})
 	- Пользователям Windows дополнительно требуется свежая версия [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html){:target="_blank"}
 
 	
