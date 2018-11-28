@@ -62,7 +62,7 @@ author_profile: true
 `bfcl console_id_bcd [Console ID] [offset0] [src0] [verify0] [offset1] [src1] [verify1]`
 
 ### Получение Console ID:
-Если вы не знаете и одного из ключей, используйте следующие в качестве шаблона:
+Если вы не знаете ни одного из ключей, используйте следующие в качестве шаблона:
 
 `08A2000000000100` for DSi
 
@@ -111,7 +111,7 @@ author_profile: true
 `MY ss ss ss ss 32 57 37 31 36 35 4D 00 01 15 00 `;DSi CID KLM5617EFW-B301
 
 
-bfcL emmc_cid [Console ID] [EMMC CID] [offset] [src] [verify] 
+`bfcL emmc_cid [Console ID] [EMMC CID] [offset] [src] [verify]` 
 
 Необходимо открыть консоль и прочитать 3 цифры на Нанд чипе 
 
@@ -145,9 +145,9 @@ bfcL emmc_cid [Console ID] [EMMC CID] [offset] [src] [verify]
 
 ## Часть 3 – Подпись нанда
 1.	Откройте HiyaCFW Helper с правами администратора
-2.	Нажмите кнопку ... в поле NAND file with No$GBA footer
+2.	Нажмите кнопку `...` в поле `NAND file with No$GBA footer`
 3.	Выбирите Ваш бекап NAND и нажмите open
-4.	Нажмите на иконку с микрочипом, в окрывшемся окне с предупреждением нажмите ок
+4.	Нажмите на иконку ![]({{ "/images/hm/chip.png" | absolute_url }}), в окрывшемся окне с предупреждением нажмите ок
 5.	Отметьте Add No$GBA footer, впишите ваши Console ID и eMMC CID
 6.	Нажмите Start
 7.	После появления надписи "Done!Modified NAND stored as хххххххххххххххх-footer.bin"
