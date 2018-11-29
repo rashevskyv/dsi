@@ -38,8 +38,12 @@ Homebrew можно запустить бесплатно на DSi, если у 
 - Держите консоль подключенной к зарядному устройству на протяжении всего процесса для избежания потери данных или поломки в случае внезапного отключения консоли
 - Необходима SD карта или microSD с переходником под SD (обычно карта поставляется в комплекте с консолью)
 	- Карта памяти дожна быть в формате FAT32. Отформатируйте Вашу карту согласно [инструкции](https://3ds.customfw.xyz/clean_sd#ii-%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-sd-%D0%BA%D0%B0%D1%80%D1%82%D1%8B){:target="_blank"}
+- Проверить наличие установленного приложения **Flipnote studio** на консоли. Если такового не имеется, можно прибегнуть к помощи хардмода (Процесс ёмкий и давольно сложный. Необходимо иметь опыт в пайке).
 
 ___
 
 <center><a href="get-started" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Начнем!!</a></center>
 {: .notice--success}
+
+<center><a href="hardmode" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Хардмод!!</a></center>
+{: .notice--danger}
