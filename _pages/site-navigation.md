@@ -14,7 +14,6 @@ author_profile: true
 * [Unlaunch](get-started){:target="_blank"}
 * [HiyaCFW](installing-hiyaCFW){:target="_blank"}
 * [Ручная установка HiyaCFW](installing-hiyaCFW-manual){:target="_blank"}
-* [Установка HiyaCFW после хардмода](hiyaCFW-hm){:target="_blank"}
 * [Завершение](finalizing-setup){:target="_blank"}
 * [Замена системного меню](replacing-system-menu){:target="_blank"}
 
