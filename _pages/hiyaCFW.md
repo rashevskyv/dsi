@@ -80,13 +80,20 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 		- Для запуска GBA ромов нужен биос от GBA, помещенный в корень SD-карты под именем `"bios.bin"` (ищите в интернете сами).		
 2. Появится главное меню TWiLightMenu++ (Можно отключить в настройках, чтобы сразу переходить к списку игр)
 	- Нажмите на иконку ![]({{ "/images/buttons/rg.png" | absolute_url }}) чтобы открыть список игр 
-		- Нажмите ![]({{ "/images/buttons/A.png" | absolute_url }}) чтобы запустить игры
-		- Нажмите на иконку ![]({{ "/images/buttons/gba_icon.png" | absolute_url }}) чтобы запустить GBA игры через GBARunner2
+		- Нажмите ![]({{ "/images/buttons/A.png" | absolute_url }}) чтобы запустить DS/DSiWare игры
+		- Нажмите ![]({{ "/images/buttons/X.png" | absolute_url }}) чтобы открыть параметры запуска игры
+		- Нажмите на иконку ![]({{ "/images/buttons/gba_icon.png" | absolute_url }}) чтобы запустить **GBARunner2** - эмулятор Game Boy Advance
+		- Нажмите на иконку ![]({{ "/images/buttons/sega.png" | absolute_url }}) чтобы запустить **jEnesisDS**  - эмулятор Sega Mega Drive
+		- Нажмите на иконку ![]({{ "/images/buttons/snes.png" | absolute_url }}) чтобы запустить **SNEmulDS** - эмулятор Super Nintendo
 		- Нажмите на иконку ![]({{ "/images/buttons/cart_icon.png" | absolute_url }}) чтобы запустить флешкартридж
+		- Нажмите на иконку ![]({{ "/images/buttons/set_icon.png" | absolute_url }}) чтобы запустить настройки **TWiLightMenu**
 		- Нажмите на иконку ![]({{ "/images/buttons/home_icon.png" | absolute_url }}) чтобы вернуться к стандартному меню DSi
 
 
 
+Для работы эмуляторов SMD и SNES требуется создать файлы образов с играми. Подробная инструкция [здесь](smdsnesimg){:target="_blank"}		
+		
+		
 ____
 
 [**Полезные инструкции**](addons)
