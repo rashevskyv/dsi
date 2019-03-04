@@ -34,7 +34,7 @@ author_profile: true
 {: .notice--info}
 
 Через TWiLightMenu++ можно запускать любое DSiWare приложение, сконвертированное в формат `.nds`, просто закинув его в папку с ромами, как и любую ds игру.
-[Ссылка](https://mega.nz/#F!wEolnIII!sYQ3arxil3D0Hc6gGSbkzA){:target="_blank"} на сборник уже готовых к использованию ромов.
+[Ссылка](https://mega.nz/#F!wEolnIII!sYQ3arxil3D0Hc6gGSbkzA){:target="_blank"} и [торрент](files/dsiware.torrent){:target="_blank"} на сборник уже готовых к использованию ромов.
 {: .notice--success}
 
 
