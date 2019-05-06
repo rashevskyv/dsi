@@ -22,7 +22,7 @@ addons:
     url: /dumping-dsiware
   - title: "Установка DSiWare приложений"
     url: /installing-dsiware
-  - title: "DSiWare приложенийя в формате `.nds`"
+  - title: "DSiWare приложения в формате `.nds`"
     url: /dsiware-nds
   - title: "Эмуляторы SegaMD и SNES"
     url: /smdsnesimg  
