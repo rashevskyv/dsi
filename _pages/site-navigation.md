@@ -24,7 +24,6 @@ author_profile: true
 * [Дампинг DSiWare](dumping-dsiware){:target="_blank"}
 * [Установка DSiWare](installing-dsiware){:target="_blank"}
 * [DSiWare приложения в формате `.nds`](dsiware-nds){:target="_blank"}
-* [Эмуляторы SegaMD и SNES](smdsnesimg){:target="_blank"}
 
 ### Другое 
 
