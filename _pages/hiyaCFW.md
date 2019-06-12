@@ -36,7 +36,7 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 - [HiyaCFW Helper](https://github.com/mondul/HiyaCFW-Helper/releases){:target="_blank"}
 	- Пользователи Windows запускают `.exe` файл
 	- Пользователи других систем запускают `.py` (необходимо наличие [Python 2](https://www.python.org/downloads/){:target="_blank"})
-	- Пользователям Windows дополнительно требуется [7-Zip](https://www.7-zip.org/download.html){:target="_blank"}
+	- Пользователям Windows дополнительно требуется последняя версия [7-Zip](https://www.7-zip.org/download.html){:target="_blank"}
 
 	
 ## Инструкция
