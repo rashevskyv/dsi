@@ -21,7 +21,7 @@ author_profile: true
 {: .text-center}
 {: .notice--info}
 
-[![3ds_CFW]({{ "/images/donate/3ds_cfw.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](http://vk.com/3ds_cfw){: .align-center}
+[![3ds_CFW]({{ "/images/donate/3ds_cfw.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](http://vk.customfw.xyz/ ){: .align-center}
 Гайд составлялся для группы [Custom Nintendo](http://vk.customfw.xyz/){:target="_blank"}
 {: .text-center}
 {: .notice--info}
