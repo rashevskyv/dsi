@@ -21,7 +21,7 @@ main:
 
 addons:
   - title: "Обновление TWiLightMenu++"
-    url: /TWiLightMenu_update
+    url: /twlmenu_update
   - title: "Дампинг DSiWare приложений"
     url: /dumping-dsiware
   - title: "Установка DSiWare приложений"
