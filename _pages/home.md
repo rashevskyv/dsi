@@ -7,7 +7,7 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: 'Полное руководство по прошивке Nintendo DSi<br />**Последнее изменение:** 14 июля 2019'
+excerpt: 'Полное руководство по прошивке Nintendo DSi<br />**Последнее изменение:** 22 августа 2019'
 ---
 
 {% include toc title="Содержание" %}

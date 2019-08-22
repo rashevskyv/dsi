@@ -27,6 +27,7 @@ author_profile: true
 
 ### Другое 
 
+* [Полезные инструкции](addons){:target="_blank"}
 * [Часто задаваемые вопросы](faq){:target="_blank"}
 * [Благодарности](credits){:target="_blank"}
 * [Пожертвования](donations){:target="_blank"}

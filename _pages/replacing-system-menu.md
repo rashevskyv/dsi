@@ -21,7 +21,7 @@ author_profile: true
 
 ## Что понадобится
 - Свежая версия [TWiLightMenu++](https://github.com/RocketRobz/TWiLightMenu/releases){:target="_blank"}
-- [launcharggen](files/launcharggen.zip)
+- [launcharggen](files/manual/launcharggen.zip)
 	- Пользователи Windows запускают `.exe` файл
 	- Пользователи других систем запускают `.py` (необходимо наличие [Python 2 или 3](https://www.python.org/downloads/){:target="_blank"})
 

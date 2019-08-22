@@ -26,9 +26,9 @@ HiyaCFW имеет ряд преимуществ, по сравнению с  п
 - Свежая версия [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html){:target="_blank"}
 	- Может быть заменено утилитой **mount** на системах, отличных от Windows
 - Свежая версия [HiyaCFW](https://github.com/RocketRobz/hiyaCFW/releases){:target="_blank"}
-- [NUSDownloader](files/NUSDownloader.zip)
+- [NUSDownloader](files/manual/NUSDownloader.zip)
 - Бэкап NAND Вашей приставки, сделанный ранее
-- [HiyaCFW Helper](files/hiyacfw_helper.zip)
+- [HiyaCFW Helper](files/manual/hiyacfw_helper.zip)
 	- Пользователи Windows запускают .exe файл
 	- Пользователи других систем запускают .py (необходимо наличие [Python 3](https://www.python.org/downloads/){:target="_blank"} и [WINE](https://www.winehq.org/){:target="_blank"})
 

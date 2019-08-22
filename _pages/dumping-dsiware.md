@@ -13,7 +13,6 @@ author_profile: true
 
 Это позволит создать дамп DSiWare для использования на DSi. Это возможно путем установки DSiWare на 3DS с последущим дампингом.
 
-
 ## Нахождение TittleID DSiWare
 1. Запустите `FBI` на Вашей 3DS
 2. Выделите `Tittles` и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})

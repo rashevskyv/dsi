@@ -26,9 +26,9 @@ Unlaunch - это эксплоит загрузочного кода DSi, поз
 ## Что понадобится 
 - [SD-card files](files/SD-card.zip)
 - Memory Pit (pit.bin)
-	- [Для версии системы 1.0 - 1.3 (USA, EUR, AUS, JPN)](https://github.com/emiyl/dsi.cfw.guide/raw/master/assets/files/memory_pit/256/pit.bin)
-	- [Для версии системы 1.4 - 1.4.5 (USA, EUR, AUS, JPN)](https://github.com/emiyl/dsi.cfw.guide/raw/master/assets/files/memory_pit/768_1024/pit.bin)
-	- [Для версии системы 1.0 - 1.4.6 (KOR, CHN, iQue)](https://github.com/emiyl/dsi.cfw.guide/raw/master/assets/files/memory_pit/256/pit.bin)
+	- [Для версии системы 1.0 - 1.3 (USA, EUR, AUS, JPN)](files/memory_pit/10/pit.bin)
+	- [Для версии системы 1.4 - 1.4.5 (USA, EUR, AUS, JPN)](files/memory_pit/14/pit.bin)
+	- [Для версии системы 1.0 - 1.4.6 (KOR, CHN, iQue)](files/memory_pit/10/pit.bin)
 	
 
 ## Подготовка SD карты

@@ -12,12 +12,16 @@ main:
     url: /faq
   - title: "Навигация<br>по сайту"
     url: /site-navigation
+  - title: "Полезные<br>инструкции"
+    url: /addons
   - title: "Благодарности"
     url: /credits
   - title: "Пожертвования"
     url: /donations
 
 addons:
+  - title: "Обновление TWiLightMenu++"
+    url: /TWiLightMenu_update
   - title: "Дампинг DSiWare приложений"
     url: /dumping-dsiware
   - title: "Установка DSiWare приложений"

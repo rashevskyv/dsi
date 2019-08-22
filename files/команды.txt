@@ -13,3 +13,7 @@ bundle exec jekyll serve
 git add .
 git commit -m "commit"
 git push -f
+
+
+{% spoiler *** %}
+{% endspoiler %}
