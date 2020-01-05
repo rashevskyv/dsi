@@ -17,7 +17,7 @@ author_profile: true
 1. Запустите `FBI` на Вашей 3DS
 2. Выделите `Tittles` и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})
 3. Нажмите ![]({{ "/images/buttons/SELECT.png" | absolute_url }}) и кнопкой ![]({{ "/images/buttons/A.png" | absolute_url }}) выделите пункты “Show game card” и “Show SD”
-4. Нажмите ![]({{ "/buttons/B.png" | absolute_url }}) и дождитесь построения списка
+4. Нажмите ![]({{ "/images/buttons/B.png" | absolute_url }}) и дождитесь построения списка
 5. Пролистайте список до нужного Вам DSiWare приложения
 6. Запишите Title ID приложения с верхнего экрана консоли
 7. Выключите 3ds
@@ -27,9 +27,9 @@ author_profile: true
 2. Выделите `GodMode9`  и нажмите ![]({{ "/images/buttons/A.png" | absolute_url }})
 3. Перейдите в `[2:] SYSNAND TWLN/title/00030004`
 4. Найдите нужное Вам приложение по последним 8 знакам Title ID и остановитесь на нём
-5. Нажмите ![]({{ "/buttons/R.png" | absolute_url }}) + ![]({{ "/images/buttons/A.png" | absolute_url }})
+5. Нажмите ![]({{ "/images/buttons/R.png" | absolute_url }}) + ![]({{ "/images/buttons/A.png" | absolute_url }})
 6. Выберите “Copy to 0:/gm9/out”
-7. Нажмите ![]({{ "/buttons/A.png" | absolute_url }}) по окончании копирования
+7. Нажмите ![]({{ "/images/buttons/A.png" | absolute_url }}) по окончании копирования
 8. Выключите консоль
 
 Дамп Вашего приложения будет на SD-карте приставки в папке gm9/out. Скопируйте его на Ваш компьютер.
